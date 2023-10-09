@@ -3,9 +3,10 @@ Calculating the probabilities of events related to collecting stickers from the 
 
 
 What if you wanted to complete the a sticker album collection without trading stickers with other collectors? What is the expected number of packets you would have to purchase in this scenario?
+<p>Read the full explanation [here](https://alexandrewillikneto.wordpress.com/2022/10/22/got-got-need-trying-to-complete-a-sticker-album-without-trading_duplicates/).</p>
 
-To answer this question, we can refer to the Coupon collector’s problem, a classical problem with studies dating back to the 18th century. The goal of the problem is to calculate the average number of purchases a collector of coupons (or stickers, cards, tickets etc.) needs to make to complete the coupon collection, given that there is a finite number of coupons to be collected, and that each coupon is randomly selected (i.e., the collector does not know which coupon it will get on each purchase).
-Read the full explanation [here](https://alexandrewillikneto.wordpress.com/2022/10/22/got-got-need-trying-to-complete-a-sticker-album-without-trading_duplicates/).
+<p>To answer this question, we can refer to the Coupon collector’s problem, a classical problem with studies dating back to the 18th century. The goal of the problem is to calculate the average number of purchases a collector of coupons (or stickers, cards, tickets etc.) needs to make to complete the coupon collection, given that there is a finite number of coupons to be collected, and that each coupon is randomly selected (i.e., the collector does not know which coupon it will get on each purchase).</p>
+
 
 For the 2022 FIFA World Cup album, the probabilities associated with various waiting times (from buying 1 sticker packet to buying 2000 sticker packets) for obtaining all stickers from the collection are shown on the plot below:
 ![image](https://github.com/awneto-basic/2022_world_cup_sticker_album/assets/29670261/ed1bdae4-1423-425e-b82e-dadc06fcf58d)
