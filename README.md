@@ -24,5 +24,5 @@ The plots shown below present the probability of obtaining all 20 stickers from 
 The _paniny.py_ Python script listed in this repository was to calculate the probabilities and expected values and to produce the plots above.
 Note that the Decimal module was needed to compute the large numbers involved in the calculations (e.g. the factorial of 670).
 
-The above results confirms the common sense: it pays off to swap duplicate stickers with other collectors. Speaking from experience, it may also make the whole collecting experience more fun. Happy trading!
+The above results confirms the common sense: it pays off to swap duplicate stickers with other collectors. Speaking from experience, it may also make the whole collecting experience more fun. Happy collecting!
 
